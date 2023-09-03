@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Thibaut Milville</h1>
+<h1 align="center">Hi 👋🏻, I'm Thibaut Milville</h1>
 <h3 align="center">A passionate and curious developer from France</h3>
 
 - 🌱 I’m currently learning **JavaScript, PHP and CodeIgniter**
