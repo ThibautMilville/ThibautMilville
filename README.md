@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JavaScript, PHP and CodeIgniter**
 
-- 👨‍💻 All of my projects are available at : [https://github.com/ThibautMilville?tab=repositories](https://github.com/ThibautMilville?tab=repositories)
+- 👨🏻‍💻 All of my projects are available at : [https://github.com/ThibautMilville?tab=repositories](https://github.com/ThibautMilville?tab=repositories)
 
 - 📫 How to reach me : **tmilville.pro@gmail.com**
 
