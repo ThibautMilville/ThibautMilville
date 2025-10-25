@@ -60,7 +60,7 @@ I am always open to collaboration and challenging new opportunities. I speak pro
 
 <h2 align="center">Languages and Tools</h2>
 
-<details>
+<details open>
   <summary><h3>Frontend and Frameworks</h3></summary>
   <p align="left">
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
@@ -76,7 +76,7 @@ I am always open to collaboration and challenging new opportunities. I speak pro
   </p>
 </details>
 
-<details>
+<details open>
   <summary><h3>Backend and Frameworks</h3></summary>
   <p align="left">
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
@@ -84,11 +84,11 @@ I am always open to collaboration and challenging new opportunities. I speak pro
     <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
     <a href="https://codeigniter.com" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/></a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://imgs.search.brave.com/0UFgMMOtBVC8x9H5cFwkKbG2mH-g63xBbmcM6tfazsE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cG5naXRlbS5jb20v/cGltZ3MvbS8xNTkt/MTU5NTk5N19mbGFz/ay1weXRob24tbG9n/by1oZC1wbmctZG93/bmxvYWQucG5n" alt="Flask" width="40" height="40"/></a>
+    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://imgs.search.brave.com/vsJOYxm31TFy-KfF6a6ug8p3drQxSnC_FHq_1szejlY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9yYXcu/Z2l0aHVidXNlcmNv/bnRlbnQuY29tL3Rh/bmRwZnVuL3NraWxs/LWljb25zL21haW4v/aWNvbnMvRmxhc2st/TGlnaHQuc3Zn" alt="Flask" width="40" height="40"/></a>
   </p>
 </details>
 
-<details>
+<details open>
   <summary><h3>Infrastructure and Deployment</h3></summary>
   <p align="left">
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
@@ -98,11 +98,11 @@ I am always open to collaboration and challenging new opportunities. I speak pro
     <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://imgs.search.brave.com/7B5lpQPgGu9PyKXqXGOCNQXEQIYkWMoW05TfCvXdgqQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9yZWdp/c3RyeS5ucG1taXJy/b3IuY29tL0Bsb2Jl/aHViL2ljb25zLXN0/YXRpYy1wbmcvbGF0/ZXN0L2ZpbGVzL2Rh/cmsvdmVyY2VsLnBu/Zw" alt="Vercel" width="40" height="40"/></a>
     <a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://github.com/ThibautMilville/ThibautMilville/assets/87717065/76b1e30a-695c-4da7-b56c-687bc8c125d0" alt="supabase" width="40" height="40"/></a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-    <a href="https://www.mysql.com/products/workbench/" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/originals/e9/bd/82/e9bd82cf928d94a080eb23a15c246c52b.png" alt="MySQL Workbench" width="40" height="40"/></a>
+    <a href="https://www.mysql.com/products/workbench/" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/originals/e9/bd/82/e9bd82cf92894a080eb23a15c246c52b.png" alt="MySQL Workbench" width="40" height="40"/></a>
   </p>
 </details>
 
-<details>
+<details open>
   <summary><h3>Tools and Software</h3></summary>
   <p align="left">
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
